@@ -1,0 +1,22 @@
+{
+  "name": "HXC_CAN",
+  "version": "1.0.0",
+  "description": "CQUPTHXC standard CAN base class for ESP32",
+  "keywords": "ESP32,DJI,3508,2006,6020,DM,damiao,3519,3507,3510,6220,Robomaster,Robocon",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/CQUPTHXC/HXC_CAN"
+  },
+  "authors": [
+    {
+      "name": "qingmeijiupiao",
+      "email": "2368357055@qq.com",
+      "url": "https://github.com/qingmeijiupiao"
+    }
+  ],
+  "license": "GPL-3.0-or-later",
+  "homepage": "https://github.com/CQUPTHXC/HXC_CAN",
+  "dependencies": { },
+  "frameworks": "Arduino",
+  "platforms": "espressif32"
+}

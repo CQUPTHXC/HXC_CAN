@@ -3,7 +3,7 @@
  * @LastEditors: qingmeijiupiao
  * @Description: 
  * @Author: qingmeijiupiao
- * @LastEditTime: 2024-12-30 14:13:04
+ * @LastEditTime: 2025-07-17 10:17:02
 -->
 
 ## UML图
@@ -11,6 +11,7 @@
 
 ## 概述
 HXC_CAN是一个CAN通信的基类，提供了CAN消息的发送、接收和回调处理功能。
+并且提供了ESP32 的TWAI和MCP2515两种CAN通信方式的封装，方便用户使用。
 
 ## 枚举类型
 
