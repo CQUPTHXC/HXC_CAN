@@ -3,7 +3,7 @@
  * @LastEditors: qingmeijiupiao
  * @Description: HXC CAN基类文件,需要用到CAN时应该使用此类作为传入类型，方便扩展不同的CAN方式
  * @Author: qingmeijiupiao
- * @LastEditTime: 2025-07-17 10:14:02
+ * @LastEditTime: 2025-07-24 11:25:33
  */
 
 #ifndef HXC_CAN_BASE_HPP
