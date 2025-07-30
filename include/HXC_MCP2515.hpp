@@ -7,7 +7,7 @@
  */
 #ifndef HXC_MCP2515_HPP
 #define HXC_MCP2515_HPP
-#include "HXC_CAN.hpp"
+#include "HXC_CAN.h"
 #include "driver/spi_master.h"
 #include "driver/gpio.h"
 #include "esp_log.h"

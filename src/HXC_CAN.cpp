@@ -1,4 +1,4 @@
-#include "HXC_CAN.hpp"
+#include "HXC_CAN.h"
 
 /*↓↓↓↓↓函数定义↓↓↓↓↓*/
 
